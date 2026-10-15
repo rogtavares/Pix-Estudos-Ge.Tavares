@@ -1,6 +1,8 @@
-# Pix Estudos
+# Pix Estudos — Ge.Tavares
 
-Estudos da API Pix do Banco Central: especificação, anotações e exemplos práticos em sandbox.
+Estudo prático da API Pix do Banco Central: da especificação oficial (Bacen) até
+cobranças reais em sandbox, com foco em entender o fluxo completo e operar Pix com
+taxa zero via API direta do banco.
 
 ## Estrutura
 
