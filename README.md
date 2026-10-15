@@ -12,7 +12,7 @@ taxa zero via API direta do banco.
 | [`spec/`](spec/) | Cópia da especificação oficial ([bacen/pix-api](https://github.com/bacen/pix-api)), só para consulta |
 | [`exemplos/`](exemplos/) | Código prático (sandbox Efí Bank) |
 
-Comece pelo [roteiro](docs/roteiro.md).
+Comece pelo [roteiro](docs/roteiro.md). Cada etapa segue o [fluxo de estudo](docs/fluxo-de-estudo.md).
 
 ## Atualizar a especificação
 
